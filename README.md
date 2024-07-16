@@ -47,13 +47,13 @@ L'agence Santé publique France souhaite améliorer sa base de données Open Foo
 
 ## 🧑‍💻 Utilisation
 ### Analyse Exploratoire et Nettoyage des Données
-Pour effectuer une analyse exploratoire et nettoyer les données, exécutez le notebook Moreno_Bastien_1_notebook_102023.ipynb.
+Pour effectuer une analyse exploratoire et nettoyer les données, exécutez le notebook `Moreno_Bastien_1_notebook_102023.ipynb`.
 
 ### Analyses Univariée et Multivariée
-Pour réaliser des analyses univariées et multivariées, ainsi que les tests statistiques, exécutez le notebook Moreno_Bastien_2_notebook_102023.ipynb.
+Pour réaliser des analyses univariées et multivariées, ainsi que les tests statistiques, exécutez le notebook `Moreno_Bastien_2_notebook_102023.ipynb`.
 
 ### Présentation des Résultats
-Pour consulter la présentation des résultats et conclusions, ouvrez le fichier Moreno_Bastien_3_presentation_102023.pdf.
+Pour consulter la présentation des résultats et conclusions, ouvrez le fichier `Moreno_Bastien_3_presentation_102023.pdf`.
 
 ## 👨‍💻 Auteur
 Bastien Moreno - Data Scientist et passionné par l'analyse de données et le développement de modèles intelligents.\
